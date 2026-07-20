@@ -3,6 +3,5 @@
 	<style 	name = "StudOnStyle"
 			id = "delos"
 			image_directory = "../images"
-			font_directory = "../fonts"
-			css_file = "studon9style" />
+			font_directory = "../fonts" />
 </template>
