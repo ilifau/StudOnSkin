@@ -1,3 +1,8 @@
+# StudOnSkin
+Repository for studon style and skin based on ilias delos
+https://github.com/ILIAS-eLearning/delos
+
+
 # Skins and Styles for ILIAS
 
 The total representation of ILIAS graphical user interface is defined by
