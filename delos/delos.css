@@ -23203,4 +23203,115 @@ div.Access {
   color: rgb(111.25, 111.25, 111.25);
 }
 
+@font-face {
+  font-family: "Roboto-StudOn";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+body {
+  font-family: "Roboto-StudOn", Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Roboto-StudOn", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.btn, .il-link.link-bulky,
+.il-drilldown .menulevel, .navbar-form > a {
+  font-family: "Roboto-StudOn", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.il-viewcontrol-pagination__sectioncontrol > .btn-default,
+.il-viewcontrol-pagination__sectioncontrol > .btn-link,
+.il-viewcontrol-pagination__num-of-items > .btn-default,
+.il-viewcontrol-pagination__num-of-items > .btn-link,
+.il-viewcontrol-pagination > .btn-default,
+.il-viewcontrol-pagination > .btn-link,
+.il-viewcontrol-pagination .dropdown > .btn-default,
+.il-viewcontrol-pagination .dropdown > .btn-link,
+.il-viewcontrol-pagination .last > .btn-default,
+.il-viewcontrol-pagination .last > .btn-link,
+.il-viewcontrol-mode > .btn-default,
+.il-viewcontrol-mode > .btn-link, .il-viewcontrol-sortation .dropdown > .btn-default.btn,
+.il-table-presentation-viewcontrols .l-bar__space-keeper .l-bar__group .l-bar__element > .btn-default.btn, .ilTableNav > table > tbody > tr > td > .btn-group > .btn-link,
+.ilTableNav > table > tbody > tr > td > .dropdown > .btn-default,
+.ilTableNav > table > tbody > tr > td > .navbar-form.dropdown > a {
+  font-family: "Roboto-StudOn", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.il-mainbar-triggers .btn-bulky,
+.il-mainbar-triggers .il-link.link-bulky {
+  background: #04316A;
+}
+
+.il-maincontrols-mainbar {
+  background: #04316A;
+}
+
+.il-maincontrols-footer .il-footer-text {
+  margin: 3px 0px 6px 0px;
+}
+
+.il-maincontrols-footer .il-footer-text img {
+  margin-right: 50px;
+}
+
+.btn-primary {
+  background-color: #041E42;
+  border-color: #041E42;
+}
+
+.btn-primary:hover {
+  background-color: #04316A;
+  border-color: #04316A;
+}
+
+#ilTab {
+  border-bottom: 2px solid #041E42;
+}
+
+#ilTab > li.active > a, #ilTab > li.active > a:hover, #ilTab > li.active > a:focus {
+  background-color: #04316A;
+}
+
+.il-maincontrols-footer .il-footer-text {
+  padding: 10px, 10px, 10px, 0;
+}
+
+input.btn, input.il-link.link-bulky {
+  background-color: #04316A;
+  border-color: #04316A;
+}
+
+a.ilMediaLightboxClose:hover {
+  border-bottom: 2px solid #04316A;
+}
+
+footer {
+  height: auto;
+  background-color: #04316A;
+}
+
+.il-maincontrols-footer .il-footer-text {
+  padding: 10px, 10px, 10px, 0;
+}
+
+.c-maincontrols__footer {
+  background-color: #04316A;
+  color: white;
+}
+
+.c-maincontrols__footer-grid__item .btn-default {
+  background-color: #04316A;
+  border-color: #04316A;
+}
+
+.c-maincontrols__footer a, .c-maincontrols__footer .btn-link {
+  color: white;
+}
+
+div.modal-dialog ol, div.modal-dialog ul {
+  padding-left: 15px;
+}
+
 /*# sourceMappingURL=delos.css.map */
