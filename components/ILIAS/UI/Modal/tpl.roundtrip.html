@@ -2,7 +2,7 @@
 	<div class="modal-dialog" role="document" data-replace-marker="component">
 		<div class="modal-content">
 			<div class="modal-header">
-				<form><button formmethod="dialog" class="close" aria-label="{CLOSE_LABEL}"><span aria-hidden="true">&times;</span></button></form>
+				<button type="button" class="close" aria-label="{CLOSE_LABEL}" onclick="this.closest('dialog').close()"><span aria-hidden="true">&times;</span></button>
 				<h1 class="modal-title">{TITLE}</h1>
 			</div>
 			<div class="modal-body">
@@ -21,7 +21,7 @@
 					<!-- BEGIN with_submit -->
 					{SUBMIT_BUTTON}
 					<!-- END with_submit -->
-					<button formmethod="dialog" class="btn btn-default" data-dismiss="modal">{CANCEL_BUTTON_LABEL}</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal" onclick="this.closest('dialog').close()">{CANCEL_BUTTON_LABEL}</button>
 				</form>
 			</div>
 		</div>
