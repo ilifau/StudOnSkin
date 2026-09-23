@@ -23278,10 +23278,7 @@ h1, h2, h3, h4, h5, h6,
   padding: 10px, 10px, 10px, 0;
 }
 
-input.btn, input.il-link.link-bulky {
-  background-color: #04316A;
-  border-color: #04316A;
-}
+
 
 a.ilMediaLightboxClose:hover {
   border-bottom: 2px solid #04316A;
